@@ -19,14 +19,14 @@ RUN set -eux; \
 	git \
 	gosu \
 	jq \
-	php7.4-cli \
-	php7.4-common \
-	php7.4-curl \
-	php7.4-json \
-	php7.4-mbstring \
-	php7.4-mysql \
-	php7.4-xml \
-	php7.4-zip \
+	php8.0-cli \
+	php8.0-common \
+	php8.0-curl \
+	php-json \
+	php8.0-mbstring \
+	php8.0-mysql \
+	php8.0-xml \
+	php8.0-zip \
 	php-xml \
 	python \
 	python-pip \
